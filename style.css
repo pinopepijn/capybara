@@ -40,7 +40,7 @@ html, body {
   }
 
     .main-nav a:hover {
-      bottom: -20px;
+      bottom: 0px;
     }
 
 .page-content {
